@@ -1,0 +1,10 @@
+{
+  "projects": {
+    "default": "basic-tutorial-3a211"
+  },
+  "dataconnectEmulatorConfig": {
+    "postgres": {
+      "localConnectionString": "postgresql://localhost:5432?sslmode=disable"
+    }
+  }
+}
